@@ -38,8 +38,8 @@ const ModalAddNew = (props) => {
 
   return (
     <>
-      <Button onClick={handleShow} classNameName="btn btn-success">
-        <i classNameName="fa-solid fa-circle-plus" />
+      <Button onClick={handleShow} className="btn btn-success">
+        <i className="fa-solid fa-circle-plus" />
         Thêm sản phẩm
       </Button>
       <Modal show={show} onHide={handleClose} animation={false}>

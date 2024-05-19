@@ -6,25 +6,40 @@ import ModalAddNew from "./ModalAddNew";
 import ModalEdit from "./ModalEdit";
 import ModalDelete from "./ModalDelete";
 import Header from "../Header";
+import ManageChoice from "../manager/ManageChoice";
 // import '../../../scss/Table.scss'
 
 const TableProducts = () => {
   const [listProducts, setListProducts] = useState([]);
-
   const [totalPages, setTotalPages] = useState(0);
   const [originList, setOriginList] = useState([]);
-  const [findProductName, setFindProductName] = useState("");
-  // const [sortBy,setSortBy]=useState('asc');
   const [totalProduct, setTotalProducts] = useState([]);
-  // const [sortField,setSortField]=useState("id");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 12;
+  const itemsPerPage = 10;
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
+  const [query, setQuery] = useState("");
+
   useEffect(() => {
-    getProducts(1);
-  }, []);
+    getProducts(currentPage);
+  }, [currentPage]);
+
+  useEffect(() => {
+    setTotalPages(Math.ceil(totalProduct / itemsPerPage));
+  }, [totalProduct]);
+
+  const getProducts = async (page) => {
+    let res = await fetchAllProducts(page);
+    console.log("res >>>", res);
+    if (res && res.data) {
+      // setTotalPages(res.data.length);
+      setTotalProducts(res.data.length);
+      setListProducts(res.data);
+      setOriginList(res.data);
+    }
+  };
+
   const _ = require("lodash");
 
   const handleUpdateTable = (item) => {
@@ -48,113 +63,95 @@ const TableProducts = () => {
     setListProducts(cloneListProducts);
     console.log("Deleted clone>> :", cloneListProducts);
   };
-  // const handleSort= (sortBy,sortField)=>{
-  //   setSortBy(sortBy);
-  //   setSortField(sortField);
-
-  //   const _ = require('lodash');
-  //   let cloneListProducts = _.cloneDeep(listProducts);
-  //   cloneListProducts= _.orderBy( cloneListProducts,[sortField],[sortBy])
-  //   setListProducts(cloneListProducts)
-  // }
-
-  const handleSearch = _.debounce((event) => {
-    let term = event.target.value.toLowerCase();
-    console.log("check term: ", term);
-
-    if (term) {
-      const _ = require("lodash");
-      let cloneListProducts = _.cloneDeep(originList);
-      cloneListProducts = cloneListProducts.filter((item) =>
-        item.ProductName.toLowerCase().includes(term)
-      );
-      setListProducts(cloneListProducts);
-    } else {
-      getProducts(1);
-    }
-  }, 2000);
-
-  const getProducts = async (page) => {
-    let res = await fetchAllProducts(page);
-    console.log("res >>>", res);
-    if (res && res.data) {
-      setTotalPages(res.total_pages);
-      setTotalProducts(res.total);
-      setListProducts(res.data);
-      setOriginList(res.data);
-    }
-  };
-  // const itemsPerPage=6
-  // const endOffset = itemOffset + itemsPerPage;
-  // const currentProduct = totalProducts.slice(itemOffset, endOffset);
-  // const pageCount = Math.ceil(totalProducts.length / itemsPerPage);
 
   const handlePageClick = (event) => {
-    getProducts(+event.selected + 1);
-  };
-
-  useEffect(() => {
+    setCurrentPage(+event.selected + 1);
     getProducts(currentPage);
-  }, [currentPage]);
-
-  useEffect(() => {
-    setTotalPages(Math.ceil(totalProduct / itemsPerPage));
-  }, [totalProduct]);
+  };
 
   return (
     <>
       <Header />
-      <div className="col-12 col-sm-4 my-3">
-        <input
-          className="form-control"
-          placeholder="Search by name"
-          onChange={(event) => handleSearch(event)}
-        />
-      </div>
-      <div className="d-sm-flex justify-content-between">
-        <span>List Product:</span>
+
+      <div
+        className="d-sm-flex justify-content-between"
+        style={{ marginBottom: "20px", marginTop: "20px" }}
+      >
+        <span>
+          <input
+            className="form-control"
+            placeholder="Tìm kiếm..."
+            onChange={(event) => setQuery(event.target.value)}
+          />
+        </span>
         <div className="func-button">
           <ModalAddNew handleUpdateTable={handleUpdateTable} />
         </div>
       </div>
       <div className="customize-table">
-        <Table striped bordered hover>
-          <thead>
-            <tr>
-              <th>Mã sản phẩm</th>
-              <th>Tên sản phẩm</th>
-              <th>Đơn giá</th>
-              <th></th>
-            </tr>
-          </thead>
-          <tbody>
-            {listProducts &&
-              listProducts.length > 0 &&
-              listProducts.slice(startIndex, endIndex).map((item, index) => {
-                return (
-                  <tr key={`item${index}`}>
-                    <td>{item.ProductID}</td>
-                    <td>{item.ProductName}</td>
-                    <td>{item.Price}</td>
-                    <td>
-                      <ModalEdit
-                        item={item}
-                        handleUpdateTable={handleUpdateTable}
-                        handleUpdateTableFromModal={handleUpdateTableFromModal}
-                      />
-                      <ModalDelete
-                        item={item}
-                        handleUpdateTable={handleUpdateTable}
-                        handleDeleteTableFromModal={handleDeleteTableFromModal}
-                      />
-                    </td>
+        <Table>
+          <tr>
+            <td>
+              <ManageChoice />
+            </td>
+            <td>
+              <Table striped bordered hover>
+                <thead>
+                  <tr>
+                    <th>Mã sản phẩm</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Đơn giá</th>
+                    <th></th>
                   </tr>
-                );
-              })}
-          </tbody>
+                </thead>
+                <tbody>
+                  {listProducts &&
+                    listProducts.length > 0 &&
+                    listProducts
+                      .filter((post) => {
+                        if (query === "") {
+                          return post;
+                        } else if (
+                          post.ProductName.toLowerCase().includes(
+                            query.toLowerCase()
+                          )
+                        ) {
+                          return post;
+                        }
+                      })
+                      .slice(startIndex, endIndex)
+                      .map((item, index) => {
+                        return (
+                          <tr key={`item${index}`}>
+                            <td>{item.ProductID}</td>
+                            <td>{item.ProductName}</td>
+                            <td>{item.Price}</td>
+                            <td>
+                              <ModalEdit
+                                item={item}
+                                handleUpdateTable={handleUpdateTable}
+                                handleUpdateTableFromModal={
+                                  handleUpdateTableFromModal
+                                }
+                              />
+                              <ModalDelete
+                                item={item}
+                                handleUpdateTable={handleUpdateTable}
+                                handleDeleteTableFromModal={
+                                  handleDeleteTableFromModal
+                                }
+                              />
+                            </td>
+                          </tr>
+                        );
+                      })}
+                </tbody>
+              </Table>
+            </td>
+          </tr>
         </Table>
       </div>
-      <div className="paginate">
+      <div className="paginate d-flex justify-content-center">
         <ReactPaginate
           breakLabel="..."
           nextLabel="next >"

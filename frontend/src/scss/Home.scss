@@ -1,0 +1,34 @@
+Table {
+  //   background-color: rgb(252, 247, 242);
+  height: 80vh;
+}
+
+.col-span-1 {
+  width: 50%;
+  align-items: center;
+}
+
+.center-button {
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%; /* Đảm bảo container bao bọc toàn bộ chiều cao của cột trái */
+  justify-content: center;
+  align-content: center;
+  margin-left: 150px;
+}
+
+.text-center {
+  margin-bottom: 20px;
+}
+
+.custom-button {
+  background-color: #debb9c;
+  font-weight: 500;
+  font-size: 10;
+  color: white;
+  border-radius: 10px;
+  height: 60px;
+  width: 200px;
+}

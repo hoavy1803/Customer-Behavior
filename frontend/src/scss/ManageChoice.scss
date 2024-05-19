@@ -1,0 +1,16 @@
+.custom-button {
+  background-color: #debb9c;
+  font-weight: 500;
+  font-size: large;
+  color: white;
+  border-radius: 25px;
+  border: 1px solid gray;
+  height: 60px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.button-contain {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,33 @@
+// .custom-navbar {
+//   margin-top: 20px;
+//   border-bottom: 2px solid #8b4513; /* Đường viền dưới có màu nâu */
+//   margin-bottom: 40px;
+// }
+
+// .navbar-brand {
+//   font-size: 60;
+//   font-weight: 600;
+//   margin-left: 0; /* Xóa margin phải */
+// }
+
+// .nav-link {
+//   margin-left: 0; /* Xóa margin trái */
+// }
+.custom-navbar {
+  margin-top: 20px;
+  border-bottom: 2px solid #8b4513; /* Đường viền dưới có màu nâu */
+  margin-bottom: 40px;
+  .navbar-brand {
+    margin-right: auto; // Đẩy sang bên trái
+  }
+
+  .header-section {
+    margin-left: auto; // Đẩy sang bên phải
+    display: flex; // Sử dụng flexbox để quản lý các thành phần bên trong
+    align-items: center; // Căn các thành phần theo chiều dọc
+
+    .nav-link {
+      margin-left: 10px; // Khoảng cách giữa các thành phần
+    }
+  }
+}

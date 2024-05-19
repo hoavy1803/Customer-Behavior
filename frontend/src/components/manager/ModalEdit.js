@@ -29,26 +29,27 @@ const ModalEdit = (props) => {
     if (res && res.createdAt) {
       handleUpdateTableFromModal({
         name: productName,
-        productId: dataProductEdit.productID,
+        productId: dataProductEdit.ProductID,
         price: price,
         image: image,
       });
-      console.log(">>id: ", dataProductEdit.productID);
+      console.log(">>id: ", dataProductEdit.ProductID);
       handleClose();
       toast.success("An Product Updated");
     }
   };
   useEffect(() => {
     if (show) {
-      setProductName(dataProductEdit.productID);
-      setPrice(dataProductEdit.price);
-      setImage(dataProductEdit.image);
+      setID(dataProductEdit.ProductID);
+      setProductName(dataProductEdit.ProductName);
+      setPrice(dataProductEdit.Price);
+      setImage(dataProductEdit.Image);
     }
   }, [dataProductEdit]);
   return (
     <>
       <Button onClick={handleShow} className="btn btn-warning mx-3">
-        Edit
+        <i className="fa fa-pen-square"></i>
       </Button>
       <Modal show={show} onHide={handleClose} animation={false}>
         <Modal.Header closeButton>

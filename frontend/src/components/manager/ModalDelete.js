@@ -44,7 +44,9 @@ const ModalDelete = (props) => {
   return (
     <>
       <Button onClick={handleShow} className="btn btn-danger">
-        Xóa
+        <div>
+          <i className="fa fa-trash"></i>
+        </div>
       </Button>
 
       <Modal show={show} onHide={handleClose} animation={false}>

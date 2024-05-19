@@ -10,7 +10,7 @@ const ManageChoice = () => {
   };
 
   const handleOrders = async () => {
-    navigate("/orders");
+    navigate("/table_orders");
   };
 
   const handleStatistic = async () => {
@@ -28,9 +28,9 @@ const ManageChoice = () => {
       <table>
         <tbody>
           <tr>
-            <td>
+            <td className="button-contain">
               <button
-                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 "
+                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
                 onClick={() => {
                   handleProducts();
                   handleClick(1);
@@ -41,12 +41,9 @@ const ManageChoice = () => {
               >
                 Sản phẩm
               </button>
-            </td>
-          </tr>
-          <tr>
-            <td>
+
               <button
-                className="buttonchoice"
+                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
                 onClick={() => {
                   handleOrders();
                   handleClick(2);
@@ -57,12 +54,9 @@ const ManageChoice = () => {
               >
                 Đơn hàng
               </button>
-            </td>
-          </tr>
-          <tr>
-            <td>
+
               <button
-                className="buttonchoice"
+                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
                 onClick={() => {
                   handleStatistic();
                   handleClick(3);
