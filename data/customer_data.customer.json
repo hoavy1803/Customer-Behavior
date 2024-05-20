@@ -1,0 +1,3444 @@
+[{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eabd"
+  },
+  "CustomerID": "1-BAG0105C0328",
+  "CustomerName": "Thuận Chính-Ki Ốt 4-Chợ Thương-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eabe"
+  },
+  "CustomerID": "1-BAG0105C0330",
+  "CustomerName": "Vân Anh-51-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eabf"
+  },
+  "CustomerID": "1-BAG0105C0361",
+  "CustomerName": "Quân Thi-1-Ktt Phân Đạm-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac0"
+  },
+  "CustomerID": "1-BAG0105C0126",
+  "CustomerName": "Thư Long-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac1"
+  },
+  "CustomerID": "1-BAG0105C0477",
+  "CustomerName": "Lan Sơn-Chợ Bỉ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac3"
+  },
+  "CustomerID": "1-BAG0105C0095",
+  "CustomerName": "Hoa Mạnh-Phố Hòa Bình-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac6"
+  },
+  "CustomerID": "1-BAG0105C0103",
+  "CustomerName": "Thắng Bát-Phố Thống Nhất-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac7"
+  },
+  "CustomerID": "1-BAG0105C0101",
+  "CustomerName": "Ngân Hương-Chợ Bố Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eac9"
+  },
+  "CustomerID": "1-BAG0105C0485",
+  "CustomerName": "Vân Kỷ-Chợ Vồng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eacb"
+  },
+  "CustomerID": "1-BAG0105C0501",
+  "CustomerName": "Hữu Bắc-Ngọc Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eacd"
+  },
+  "CustomerID": "1-BAG0105C0128",
+  "CustomerName": "Tiềm Doanh-Tân Sỏi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ead2"
+  },
+  "CustomerID": "1-BAG0105C0283",
+  "CustomerName": "Chị Hương-Ngã Ba Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ead6"
+  },
+  "CustomerID": "1-BAG0105C0122",
+  "CustomerName": "Bình Hà-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ead8"
+  },
+  "CustomerID": "1-BAG0105C0266",
+  "CustomerName": "Ngân Quỳnh-Hoàng Hoa Thám"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ead9"
+  },
+  "CustomerID": "1-BAG0105C0026",
+  "CustomerName": "Hoàng Tuyến-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eadb"
+  },
+  "CustomerID": "1-BAG0105C0127",
+  "CustomerName": "Tuyết Phương-Tân Sỏi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eadf"
+  },
+  "CustomerID": "1-BAG0105C0020",
+  "CustomerName": "Cô Lý-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eae2"
+  },
+  "CustomerID": "1-BAG0105C0010",
+  "CustomerName": "Kim Vượng-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eae5"
+  },
+  "CustomerID": "1-BAG0105C0009",
+  "CustomerName": "Sơn Lệ-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eae8"
+  },
+  "CustomerID": "1-BAG0105C0004",
+  "CustomerName": "Cô Bích-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaeb"
+  },
+  "CustomerID": "1-BAG0105C0124",
+  "CustomerName": "Thẩm Năm-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaf0"
+  },
+  "CustomerID": "1-BAG0105C0468",
+  "CustomerName": "Phúc Linh-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaf3"
+  },
+  "CustomerID": "1-BAG0105C0125",
+  "CustomerName": "Hùng Lợi-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaf6"
+  },
+  "CustomerID": "1-BAG0105C0123",
+  "CustomerName": "Vinh Nụ-Tân Sỏi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaf9"
+  },
+  "CustomerID": "1-BAG0105C0566",
+  "CustomerName": "Võ Loan-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eafc"
+  },
+  "CustomerID": "1-BAG0105C0515",
+  "CustomerName": "Đỗ Đậu-Trần Nguyên Hãn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eaff"
+  },
+  "CustomerID": "1-BAG0105C0383",
+  "CustomerName": "Bà Hường-Số 49-Cơ Khí-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb02"
+  },
+  "CustomerID": "1-BAG0105C0371",
+  "CustomerName": "Thọ Hường-3-Hồ Bắc-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb05"
+  },
+  "CustomerID": "1-BAG0105C0359",
+  "CustomerName": "Cô Nguyên-4-Nguyễn Khắc Nhu"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb07"
+  },
+  "CustomerID": "1-BAG0105C0563",
+  "CustomerName": "Chị Thúy-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb0e"
+  },
+  "CustomerID": "1-BAG0105C0372",
+  "CustomerName": "Cô Dung-Ki Ốt 2-Đường Thọ Xương-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb11"
+  },
+  "CustomerID": "1-BAG0105C0393",
+  "CustomerName": " Thường Nhung-Nhà Số 7-Phân Đạm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb13"
+  },
+  "CustomerID": "1-BAG0105C0390",
+  "CustomerName": "Hường Vĩ-Số Nhà 232-Thọ Xương-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb1a"
+  },
+  "CustomerID": "1-BAG0105C0396",
+  "CustomerName": "Nhật Trang-Chợ Hòa Yên-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb1b"
+  },
+  "CustomerID": "1-BAG0105C0395",
+  "CustomerName": "Chị Yến-141 Cao Kỳ Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb22"
+  },
+  "CustomerID": "1-BAG0105C0374",
+  "CustomerName": "Linh Hằng-Ki Ốt 7-Đường Thọ Xương-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb28"
+  },
+  "CustomerID": "1-BAG0105C0394",
+  "CustomerName": "Cô Cánh-Nhà Số 9-Phân Đạm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb2a"
+  },
+  "CustomerID": "1-BAG0105C0369",
+  "CustomerName": "Thanh Xuân-17-Hồ Bắc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb30"
+  },
+  "CustomerID": "1-BAG0105C0373",
+  "CustomerName": "Minh Lệ-Ki Ốt 4-Đường Thọ Xương-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb31"
+  },
+  "CustomerID": "1-BAG0105C0355",
+  "CustomerName": "Hà Tăng-3-Trần Nguyên Hãn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb38"
+  },
+  "CustomerID": "1-BAG0105C0381",
+  "CustomerName": "Cô Hòe-Số Nhà 42-Cơ Khí-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb41"
+  },
+  "CustomerID": "1-BAG0105C0356",
+  "CustomerName": "Hoa Hà-90-Trần Nguyên Hãn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb46"
+  },
+  "CustomerID": "1-BAG0105C0513",
+  "CustomerName": "Hòa Liên-39 Hà Vị-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb4c"
+  },
+  "CustomerID": "1-BAG0105C0384",
+  "CustomerName": "Loan Công-Số 58-Cơ Khí-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb4d"
+  },
+  "CustomerID": "1-BAG0105C0382",
+  "CustomerName": "Chị Hoàn-Số 54-Cơ Khí-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb54"
+  },
+  "CustomerID": "1-BAG0105C0380",
+  "CustomerName": "Cô Tuyên-Số Nhà 44-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb57"
+  },
+  "CustomerID": "1-BAG0105C0386",
+  "CustomerName": "Kim Tư-Số 2-Cơ Khí-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb68"
+  },
+  "CustomerID": "1-BAG0105C0121",
+  "CustomerName": "Nhung Long-Trại Chuối-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb6d"
+  },
+  "CustomerID": "1-BAG0105C0131",
+  "CustomerName": "Hương Xoài-Trại Chuối-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb71"
+  },
+  "CustomerID": "1-BAG0105C0120",
+  "CustomerName": "Xuân Bắc-Thôn Ngò"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb77"
+  },
+  "CustomerID": "1-BAG0105C0493",
+  "CustomerName": "Dư Yến-Chợ Vồng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb7b"
+  },
+  "CustomerID": "1-BAG0105C0467",
+  "CustomerName": "Duyên Bằng-Đồng Vàng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb7f"
+  },
+  "CustomerID": "1-BAG0105C0119",
+  "CustomerName": "Loan Công-Thôn Ngò"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb83"
+  },
+  "CustomerID": "1-BAG0105C0480",
+  "CustomerName": "Chị Hiền-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb85"
+  },
+  "CustomerID": "1-BAG0105C0045",
+  "CustomerName": "Thiêm Lương-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb87"
+  },
+  "CustomerID": "1-BAG0105C0503",
+  "CustomerName": "Việt Đức-Song Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb8b"
+  },
+  "CustomerID": "1-BAG0105C0490",
+  "CustomerName": "Quỳnh Hoài-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb8f"
+  },
+  "CustomerID": "1-BAG0105C0491",
+  "CustomerName": "Chinh Nhung-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb94"
+  },
+  "CustomerID": "1-BAG0105C0511",
+  "CustomerName": "Hải Vui-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb96"
+  },
+  "CustomerID": "1-BAG0105C0481",
+  "CustomerName": "Hoa Dũng-Chợ Bỉ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb98"
+  },
+  "CustomerID": "1-BAG0105C0482",
+  "CustomerName": "Chị Huyền-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb9a"
+  },
+  "CustomerID": "1-BAG0105C0475",
+  "CustomerName": "Như Bôn- Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eb9e"
+  },
+  "CustomerID": "1-BAG0105C0036",
+  "CustomerName": "ST Công Minh-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eba2"
+  },
+  "CustomerID": "1-BAG0105C0097",
+  "CustomerName": "Tám Thủy-Phố Hòa Bình-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eba6"
+  },
+  "CustomerID": "1-BAG0105C0504",
+  "CustomerName": "Khuyến Dung-Ngọc Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eba9"
+  },
+  "CustomerID": "1-BAG0105C0585",
+  "CustomerName": "Chi Mart-Bố Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebb1"
+  },
+  "CustomerID": "1-BAG0105C0478",
+  "CustomerName": "Thọ Quyên-Chợ Bỉ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebb4"
+  },
+  "CustomerID": "1-BAG0105C0437",
+  "CustomerName": "Dung Khởi-Bố Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebb7"
+  },
+  "CustomerID": "1-BAG0105C0094",
+  "CustomerName": "Oanh Nguyên-Phố Thống Nhất-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebb9"
+  },
+  "CustomerID": "1-BAG0105C0091",
+  "CustomerName": "Hùng Tuyết-Hòa Bình-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebbc"
+  },
+  "CustomerID": "1-BAG0105C0090",
+  "CustomerName": "Việt Hòe-Hòa Bình-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebbd"
+  },
+  "CustomerID": "1-BAG0105C0031",
+  "CustomerName": "Vân Lan-Thôn Bến Phà-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebbf"
+  },
+  "CustomerID": "1-BAG0105C0032",
+  "CustomerName": "Hương Ân-Thôn Bến Phà-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebc1"
+  },
+  "CustomerID": "1-BAG0105C0140",
+  "CustomerName": "Hà Hạnh-Thôn Bến Phà-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebc4"
+  },
+  "CustomerID": "1-BAG0105C0099",
+  "CustomerName": "ST May-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebcc"
+  },
+  "CustomerID": "1-BAG0105C0041",
+  "CustomerName": "Mai Oánh-Phố Bằng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebce"
+  },
+  "CustomerID": "1-BAG0105C0062",
+  "CustomerName": "Tuấn Duyên-Tiểu Khu 6-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebd1"
+  },
+  "CustomerID": "1-BAG0105C0548",
+  "CustomerName": "Nam Hạnh-Bằng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebd6"
+  },
+  "CustomerID": "1-BAG0105C0549",
+  "CustomerName": "Thu Thu-Thôn Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebdc"
+  },
+  "CustomerID": "1-BAG0105C0212",
+  "CustomerName": "Tuyết Bàng-Đường 295b-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebde"
+  },
+  "CustomerID": "1-BAG0105C0216",
+  "CustomerName": "Bảo Chuyền-Chợ Năm-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebe1"
+  },
+  "CustomerID": "1-BAG0105C0459",
+  "CustomerName": "Hiền Anh-An Hà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebe5"
+  },
+  "CustomerID": "1-BAG0105C0516",
+  "CustomerName": "Minh Thảo-Kép-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebe9"
+  },
+  "CustomerID": "1-BAG0105C0235",
+  "CustomerName": " Dũng Luyến-Bến Tuần-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebeb"
+  },
+  "CustomerID": "1-BAG0105C0222",
+  "CustomerName": "Thế Nam-Thôn Tân Quang-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebed"
+  },
+  "CustomerID": "1-BAG0105C0037",
+  "CustomerName": "Hải Bồng-Phố Bằng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebf2"
+  },
+  "CustomerID": "1-BAG0105C0241",
+  "CustomerName": "Quang Chung-Mỹ Thái"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebf3"
+  },
+  "CustomerID": "1-BAG0105C0233",
+  "CustomerName": "Huy Dung-Chợ Triển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebf4"
+  },
+  "CustomerID": "1-BAG0105C0215",
+  "CustomerName": "Đoàn-Chợ Năm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebf6"
+  },
+  "CustomerID": "1-BAG0105C0551",
+  "CustomerName": "Hồng Thân-An Hà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebfa"
+  },
+  "CustomerID": "1-BAG0105C0217",
+  "CustomerName": "Bình Hoàn-Chợ Năm-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ebfc"
+  },
+  "CustomerID": "1-BAG0105C0030",
+  "CustomerName": "Tuấn Thủy-Thôn Mia"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec03"
+  },
+  "CustomerID": "1-BAG0105C0473",
+  "CustomerName": "Đoàn Hiền-Mỹ Hà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec05"
+  },
+  "CustomerID": "1-BAG0105C0236",
+  "CustomerName": "Tiến Lộng -TIÊN Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec07"
+  },
+  "CustomerID": "1-BAG0105C0458",
+  "CustomerName": "Tuyến Yến-Phố Bằng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec0d"
+  },
+  "CustomerID": "1-BAG0105C0221",
+  "CustomerName": "Tiện Ích-Đào Mỹ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec10"
+  },
+  "CustomerID": "1-BAG0105C0047",
+  "CustomerName": "Yến Cảnh-Khu 6-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec15"
+  },
+  "CustomerID": "1-BAG0105C0342",
+  "CustomerName": "Huệ Mai-110-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec17"
+  },
+  "CustomerID": "1-BAG0105C0320",
+  "CustomerName": "Nga Quang-Ki Ốt 3-Lê Lợi-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec1f"
+  },
+  "CustomerID": "1-BAG0105C0332",
+  "CustomerName": "Hùng Phương-36-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec25"
+  },
+  "CustomerID": "1-BAG0105C0329",
+  "CustomerName": "Quyên-165-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec2a"
+  },
+  "CustomerID": "1-BAG0105C0345",
+  "CustomerName": "Tuấn Loan-186 B -TRẦN Nguyên Hãn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec2d"
+  },
+  "CustomerID": "1-BAG0105C0335",
+  "CustomerName": "Thành Tám-Ki Ốt 43-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec31"
+  },
+  "CustomerID": "1-BAG0105C0334",
+  "CustomerName": "Vân Phương-6-Chợ Thương-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec34"
+  },
+  "CustomerID": "1-BAG0105C0340",
+  "CustomerName": "Hậu Giang-Ki Ốt 41-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec37"
+  },
+  "CustomerID": "1-BAG0105C0349",
+  "CustomerName": "Cô Phương-37-Cầu Chui-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec3a"
+  },
+  "CustomerID": "1-BAG0105C0350",
+  "CustomerName": "Cô Hảo-365-Cầu Chui-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec3c"
+  },
+  "CustomerID": "1-BAG0105C0354",
+  "CustomerName": "Chị Dung-Nguyễn Công Hãng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec42"
+  },
+  "CustomerID": "1-BAG0105C0344",
+  "CustomerName": "Hoa Tuyết-186a-Trần Nguyên Hãn-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec46"
+  },
+  "CustomerID": "1-BAG0105C0495",
+  "CustomerName": "Anh Thư-Cầu Chui"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec4e"
+  },
+  "CustomerID": "1-BAG0105C0435",
+  "CustomerName": "Ngân Hương-Cầu Chui"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec55"
+  },
+  "CustomerID": "1-BAG0105C0339",
+  "CustomerName": "Vinh Anh-41-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec5b"
+  },
+  "CustomerID": "1-BAG0105C0346",
+  "CustomerName": "Cô Sâm-295-Trần Nguyên Hãn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec5f"
+  },
+  "CustomerID": "1-BAG0105C0517",
+  "CustomerName": "Cô Quy-Nguyễn Công Hãng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec62"
+  },
+  "CustomerID": "1-BAG0105C0333",
+  "CustomerName": "Thông Thái-7-Chợ Thương-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec65"
+  },
+  "CustomerID": "1-BAG0105C0331",
+  "CustomerName": "Sáu Thạch-45-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec6a"
+  },
+  "CustomerID": "1-BAG0105C0353",
+  "CustomerName": "Liên Điền-Chợ Thương-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec6c"
+  },
+  "CustomerID": "1-BAG0105C0348",
+  "CustomerName": "Cô Mai-41-Cầu Chui-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec73"
+  },
+  "CustomerID": "1-BAG0105C0343",
+  "CustomerName": "Hương Quyết-Ki Ốt 8-Trần Nguyên Hãn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec79"
+  },
+  "CustomerID": "1-BAG0105C0327",
+  "CustomerName": "Bình Tươi-Kios 8-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec7c"
+  },
+  "CustomerID": "1-BAG0105C0550",
+  "CustomerName": "Hoa Bình-Bằng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec7f"
+  },
+  "CustomerID": "1-BAG0105C0038",
+  "CustomerName": "Thư Công- Chợ Bằng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec81"
+  },
+  "CustomerID": "1-BAG0105C0039",
+  "CustomerName": "Lan Đương-Phố Bằng-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec85"
+  },
+  "CustomerID": "1-BAG0105C0040",
+  "CustomerName": "Cúc Quả-Phố Bằng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec8b"
+  },
+  "CustomerID": "1-BAG0105C0060",
+  "CustomerName": "Bắc Thảo-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec8d"
+  },
+  "CustomerID": "1-BAG0105C0042",
+  "CustomerName": "Ngọc Hùng-Phố Bằng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec93"
+  },
+  "CustomerID": "1-BAG0105C0043",
+  "CustomerName": "Vui Hà-Tân Thịnh-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec99"
+  },
+  "CustomerID": "1-BAG0105C0488",
+  "CustomerName": "Nam Hà-Bến Tuần"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec9b"
+  },
+  "CustomerID": "1-BAG0105C0065",
+  "CustomerName": "Minh Tỵ-Tân Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ec9f"
+  },
+  "CustomerID": "1-BAG0105C0231",
+  "CustomerName": "Học Hòe-Chợ Triển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eca4"
+  },
+  "CustomerID": "1-BAG0105C0552",
+  "CustomerName": "Thanh Bình-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eca8"
+  },
+  "CustomerID": "1-BAG0105C0029",
+  "CustomerName": "Túc Thập-Tân Thịnh "
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecac"
+  },
+  "CustomerID": "1-BAG0105C0063",
+  "CustomerName": "Hương Vân-Tiểu Khu 6"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecb0"
+  },
+  "CustomerID": "1-BAG0105C0533",
+  "CustomerName": "Tuấn-Chợ Triển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecb4"
+  },
+  "CustomerID": "1-BAG0105C0232",
+  "CustomerName": "Chức Quyên-Chợ Triển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecb7"
+  },
+  "CustomerID": "1-BAG0105C0242",
+  "CustomerName": "Mến Thảo-Mỹ Thái"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecb9"
+  },
+  "CustomerID": "1-BAG0105C0195",
+  "CustomerName": "Thanh Nhị-Phố Tráng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecbb"
+  },
+  "CustomerID": "1-BAG0105C0229",
+  "CustomerName": "Toàn Lượng-Phố Giỏ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecbf"
+  },
+  "CustomerID": "1-BAG0105C0070",
+  "CustomerName": "Tân Tới-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecc5"
+  },
+  "CustomerID": "1-BAG0105C0085",
+  "CustomerName": "Tuyến Doan-Tt Kép-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecc7"
+  },
+  "CustomerID": "1-BAG0105C0055",
+  "CustomerName": "Tân Loan-Khu 4-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eccb"
+  },
+  "CustomerID": "1-BAG0105C0586",
+  "CustomerName": "Quyết Hường-Hương Lạc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecce"
+  },
+  "CustomerID": "1-BAG0105C0587",
+  "CustomerName": "Hậu Văn-Hương Lạc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecd1"
+  },
+  "CustomerID": "1-BAG0105C0532",
+  "CustomerName": "Hương Thắng-Tân Dĩnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecd5"
+  },
+  "CustomerID": "1-BAG0105C0531",
+  "CustomerName": "Giang Luận-Chợ Giỏ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecd8"
+  },
+  "CustomerID": "1-BAG0105C0240",
+  "CustomerName": "Hùng Mười-Tân Sơn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecdd"
+  },
+  "CustomerID": "1-BAG0105C0228",
+  "CustomerName": "Thắng Hường-Tân Sơn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ece0"
+  },
+  "CustomerID": "1-BAG0105C0227",
+  "CustomerName": "Kim Chi-Tân Sơn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ece4"
+  },
+  "CustomerID": "1-BAG0105C0239",
+  "CustomerName": "Sơn Nga-Tân Sơn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ece9"
+  },
+  "CustomerID": "1-BAG0105C0426",
+  "CustomerName": "Chỉnh Lan-Chợ Quỳnh Sơn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eceb"
+  },
+  "CustomerID": "1-BAG0105C0028",
+  "CustomerName": "Nam Hòa-Yên Dũng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecee"
+  },
+  "CustomerID": "1-BAG0105C0588",
+  "CustomerName": "Bà Mỹ-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf1"
+  },
+  "CustomerID": "1-BAG0105C0300",
+  "CustomerName": "Kim Anh-Ki Ốt 14-Chợ Tiền Môn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf2"
+  },
+  "CustomerID": "1-BAG0105C0299",
+  "CustomerName": "Thoa Thịnh-1-Lê Lợi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf3"
+  },
+  "CustomerID": "1-BAG0105C0442",
+  "CustomerName": "Bích Liên-48 Nguyễn Văn Mẫn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf4"
+  },
+  "CustomerID": "1-BAG0105C0321",
+  "CustomerName": "Duyên Thịnh-47-Lê Lợi-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf5"
+  },
+  "CustomerID": "1-BAG0105C0427",
+  "CustomerName": "Ngân Hiền-Chợ Quỳnh Sơn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecf9"
+  },
+  "CustomerID": "1-BAG0105C0400",
+  "CustomerName": "Hồng Luận-Đường Ql 33"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecfb"
+  },
+  "CustomerID": "1-BAG0105C0021",
+  "CustomerName": "Bẩy Sĩ-Thái Đào"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecfc"
+  },
+  "CustomerID": "1-BAG0105C0401",
+  "CustomerName": "Kiên Trụ-Đường Ql 34"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ecfe"
+  },
+  "CustomerID": "1-BAG0105C0599",
+  "CustomerName": "Thanh Thịnh-Thái Đào"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed01"
+  },
+  "CustomerID": "1-BAG0105C0008",
+  "CustomerName": "Mây-Ql 31 Phố Đại Lâm-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed05"
+  },
+  "CustomerID": "1-BAG0105C0003",
+  "CustomerName": "Vân Ý-Ql 31 Chợ Thái Đào-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed08"
+  },
+  "CustomerID": "1-BAG0105C0019",
+  "CustomerName": "Tuân Anh-Đại Lâm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed0d"
+  },
+  "CustomerID": "1-BAG0105C0201",
+  "CustomerName": "Lộc Giỏ-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed0e"
+  },
+  "CustomerID": "1-BAG0105C0188",
+  "CustomerName": "Tuyết Thiện-Đường 295"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed11"
+  },
+  "CustomerID": "1-BAG0105C0454",
+  "CustomerName": "Hạnh Cường-Tân Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed14"
+  },
+  "CustomerID": "1-BAG0105C0370",
+  "CustomerName": "Thắng Loan-Tân Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed17"
+  },
+  "CustomerID": "1-BAG0105C0453",
+  "CustomerName": "Ánh Thắm-Tân Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed1b"
+  },
+  "CustomerID": "1-BAG0105C0069",
+  "CustomerName": "Giang Nga-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed1e"
+  },
+  "CustomerID": "1-BAG0105C0068",
+  "CustomerName": "ST Quang Minh-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed22"
+  },
+  "CustomerID": "1-BAG0105C0187",
+  "CustomerName": "Thuận Quang-Đường 295"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed26"
+  },
+  "CustomerID": "1-BAG0105C0185",
+  "CustomerName": "Hồng Hằng-Tân Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed28"
+  },
+  "CustomerID": "1-BAG0105C0193",
+  "CustomerName": "Hải Lâm-Tt Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed2a"
+  },
+  "CustomerID": "1-BAG0105C0173",
+  "CustomerName": "Thanh Quân-Chợ Vôi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed2d"
+  },
+  "CustomerID": "1-BAG0105C0251",
+  "CustomerName": "Cô Vân-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed2f"
+  },
+  "CustomerID": "1-BAG0105C0165",
+  "CustomerName": "Lưu Nguyệt-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed31"
+  },
+  "CustomerID": "1-BAG0105C0168",
+  "CustomerName": "Tiến Luyến-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed34"
+  },
+  "CustomerID": "1-BAG0105C0166",
+  "CustomerName": "Hiền Đức-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed37"
+  },
+  "CustomerID": "1-BAG0105C0167",
+  "CustomerName": "Chính Huy-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed3b"
+  },
+  "CustomerID": "1-BAG0105C0440",
+  "CustomerName": "Trí Thu- Phố Tráng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed3e"
+  },
+  "CustomerID": "1-BAG0105C0158",
+  "CustomerName": "Bình Đệ-Phố Tráng-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed40"
+  },
+  "CustomerID": "1-BAG0105C0177",
+  "CustomerName": "Thu Thủy-Phố Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed44"
+  },
+  "CustomerID": "1-BAG0105C0580",
+  "CustomerName": "Chị Liên-Tiền Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed46"
+  },
+  "CustomerID": "1-BAG0105C0530",
+  "CustomerName": "Cô Bằng-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed48"
+  },
+  "CustomerID": "1-BAG0105C0436",
+  "CustomerName": "Cô Dung-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed4e"
+  },
+  "CustomerID": "1-BAG0105C0500",
+  "CustomerName": "Liên Tình-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed52"
+  },
+  "CustomerID": "1-BAG0105C0153",
+  "CustomerName": "Sơn Trang-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed56"
+  },
+  "CustomerID": "1-BAG0105C0152",
+  "CustomerName": "Đức Linh-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed5b"
+  },
+  "CustomerID": "1-BAG0105C0082",
+  "CustomerName": "CH Tiện Ích-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed5c"
+  },
+  "CustomerID": "1-BAG0105C0147",
+  "CustomerName": "Oanh Huy-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed65"
+  },
+  "CustomerID": "1-BAG0105C0146",
+  "CustomerName": "Liên Toàn-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed6a"
+  },
+  "CustomerID": "1-BAG0105C0145",
+  "CustomerName": "Đằng Hoàng-Tân Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed6f"
+  },
+  "CustomerID": "1-BAG0105C0579",
+  "CustomerName": "Sinh Phạm-Hồ Công Dự"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed77"
+  },
+  "CustomerID": "1-BAG0105C0559",
+  "CustomerName": "Tiến Thành-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed7c"
+  },
+  "CustomerID": "1-BAG0105C0558",
+  "CustomerName": "Sơn Hải-Lý Thái Tổ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed82"
+  },
+  "CustomerID": "1-BAG0105C0316",
+  "CustomerName": "Chung Hoa-196-Bờ Hồ-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed8f"
+  },
+  "CustomerID": "1-BAG0105C0317",
+  "CustomerName": "Thoa Việt-153-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed95"
+  },
+  "CustomerID": "1-BAG0105C0308",
+  "CustomerName": "Đạt Ngọc-208-Thánh Thiên-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ed9a"
+  },
+  "CustomerID": "1-BAG0105C0297",
+  "CustomerName": "Loan Chương-155-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eda0"
+  },
+  "CustomerID": "1-BAG0105C0311",
+  "CustomerName": "Yến Tuấn Mai-Ki Ốt 18-Chợ Tiền Môn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edab"
+  },
+  "CustomerID": "1-BAG0105C0305",
+  "CustomerName": "Cô Nhã-10-Châu Xuyên-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edb0"
+  },
+  "CustomerID": "1-BAG0105C0443",
+  "CustomerName": "Hằng Ngọc-Tiền Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edb6"
+  },
+  "CustomerID": "1-BAG0105C0547",
+  "CustomerName": "Hà Anh-Tân Dân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edba"
+  },
+  "CustomerID": "1-BAG0105C0598",
+  "CustomerName": "Mạnh Vinh-Yên Dũng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edbd"
+  },
+  "CustomerID": "1-BAG0105C0083",
+  "CustomerName": "Thanh Hà-Yên Dũng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edbf"
+  },
+  "CustomerID": "1-BAG0105C0006",
+  "CustomerName": "Hằng Giáp -Phố Tân An-Yên Dũng-Bắc Giang "
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edc1"
+  },
+  "CustomerID": "1-BAG0105C0535",
+  "CustomerName": "Tuấn Hương-Tân Dân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edc4"
+  },
+  "CustomerID": "1-BAG0105C0025",
+  "CustomerName": "Tập Đoàn-Tân An "
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edc7"
+  },
+  "CustomerID": "1-BAG0105C0416",
+  "CustomerName": "Hà Thuyết-Quán Trắng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edcb"
+  },
+  "CustomerID": "1-BAG0105C0012",
+  "CustomerName": "Lương Đương-Quán Trắng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edcc"
+  },
+  "CustomerID": "1-BAG0105C0545",
+  "CustomerName": "Vui Ngần-Làng Gáo"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edce"
+  },
+  "CustomerID": "1-BAG0105C0023",
+  "CustomerName": "Phúc Nguyễn-Hưng Gián"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edd1"
+  },
+  "CustomerID": "1-BAG0105C0018",
+  "CustomerName": "Tuyết Việt-Hương Gián"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edd4"
+  },
+  "CustomerID": "1-BAG0105C0172",
+  "CustomerName": "Tuyết-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eddb"
+  },
+  "CustomerID": "1-BAG0105C0452",
+  "CustomerName": "Cường Hiền-Tân Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edde"
+  },
+  "CustomerID": "1-BAG0105C0151",
+  "CustomerName": "Minh Hợi-Hương Gián"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ede3"
+  },
+  "CustomerID": "1-BAG0105C0597",
+  "CustomerName": "Nam Cường-Phố Cốc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ede6"
+  },
+  "CustomerID": "1-BAG0105C0024",
+  "CustomerName": "Thảo Hoàng-Hưng Gián-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edea"
+  },
+  "CustomerID": "1-BAG0105C0544",
+  "CustomerName": "Thành Bích-Làng Thuyền"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eded"
+  },
+  "CustomerID": "1-BAG0105C0148",
+  "CustomerName": "Học Miền-Dĩnh Trì"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edef"
+  },
+  "CustomerID": "1-BAG0105C0589",
+  "CustomerName": "Thảo My- Dĩnh Trì"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edf2"
+  },
+  "CustomerID": "1-BAG0105C0017",
+  "CustomerName": "Hải Tiến-Phố Cốc-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edf4"
+  },
+  "CustomerID": "1-BAG0105C0410",
+  "CustomerName": "Thông Vượng-Ql 30"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edf9"
+  },
+  "CustomerID": "1-BAG0105C0016",
+  "CustomerName": "Hiếu Nhàn-Phố Cốc-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330edff"
+  },
+  "CustomerID": "1-BAG0105C0692",
+  "CustomerName": "Long Hồng-Phố Cốc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee0a"
+  },
+  "CustomerID": "1-BAG0105C0118",
+  "CustomerName": "Thìn Cầu-Cầu Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee0d"
+  },
+  "CustomerID": "1-BAG0105C0073",
+  "CustomerName": "Thủy Châm-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee10"
+  },
+  "CustomerID": "1-BAG0105C0074",
+  "CustomerName": "Liên Dần-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee14"
+  },
+  "CustomerID": "1-BAG0105C0078",
+  "CustomerName": "Bích Tỵ-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee17"
+  },
+  "CustomerID": "1-BAG0105C0079",
+  "CustomerName": "Tuyên Thanh-Đông Sơn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee19"
+  },
+  "CustomerID": "1-BAG0105C0080",
+  "CustomerName": "Hải Anh-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee1f"
+  },
+  "CustomerID": "1-BAG0105C0117",
+  "CustomerName": "Bình Lan-Cầu Tiến-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee25"
+  },
+  "CustomerID": "1-BAG0105C0115",
+  "CustomerName": "Lan Dương-Mỏ Than"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee29"
+  },
+  "CustomerID": "1-BAG0105C0433",
+  "CustomerName": "Cường Vân-Mỏ Than"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee2d"
+  },
+  "CustomerID": "1-BAG0105C0570",
+  "CustomerName": "Ngọc Mai-Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee2f"
+  },
+  "CustomerID": "1-BAG0105C0248",
+  "CustomerName": "Kim Thoa-Thành Chung-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee30"
+  },
+  "CustomerID": "1-BAG0105C0569",
+  "CustomerName": "Quôc Toản-Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee31"
+  },
+  "CustomerID": "1-BAG0105C0276",
+  "CustomerName": "Tuấn Hường-Tt Mỏ Trạng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee33"
+  },
+  "CustomerID": "1-BAG0105C0568",
+  "CustomerName": "Chị Hải-Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee36"
+  },
+  "CustomerID": "1-BAG0105C0567",
+  "CustomerName": "Hải Yến-Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee39"
+  },
+  "CustomerID": "1-BAG0105C0252",
+  "CustomerName": "Cộng Tứ-Thành Chung"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee3a"
+  },
+  "CustomerID": "1-BAG0105C0556",
+  "CustomerName": "Tuấn Yến-Thọ Xương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee3f"
+  },
+  "CustomerID": "1-BAG0105C0379",
+  "CustomerName": "Thành  Thuận-Số Nhà 52-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee46"
+  },
+  "CustomerID": "1-BAG0105C0522",
+  "CustomerName": "Oanh Tình- Hồ Bắc-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee4a"
+  },
+  "CustomerID": "1-BAG0105C0365",
+  "CustomerName": "Cô Dung-Ki Ốt 20-Chợ Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee4c"
+  },
+  "CustomerID": "1-BAG0105C0385",
+  "CustomerName": "Khoa Hương-1-Đồi Axit"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee51"
+  },
+  "CustomerID": "1-BAG0105C0378",
+  "CustomerName": "Nga Tam-Ki Ốt 1-Chợ Hòa Yên-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee56"
+  },
+  "CustomerID": "1-BAG0105C0364",
+  "CustomerName": "Cô Hậu-Ki Ốt 19-Chợ Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee58"
+  },
+  "CustomerID": "1-BAG0105C0375",
+  "CustomerName": "Yến Đông-Ki Ốt 1-Chợ Hòa Yên-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee5e"
+  },
+  "CustomerID": "1-BAG0105C0397",
+  "CustomerName": "Bắc Bích -Thọ Xương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee65"
+  },
+  "CustomerID": "1-BAG0105C0367",
+  "CustomerName": "Chị Hường-Ki Ốt 16-Chợ Hà Vị-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee6b"
+  },
+  "CustomerID": "1-BAG0105C0388",
+  "CustomerName": "Sĩ Hữu-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee70"
+  },
+  "CustomerID": "1-BAG0105C0366",
+  "CustomerName": "Chị Ninh-Ki Ốt 21-Chợ Hà Vị-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee75"
+  },
+  "CustomerID": "1-BAG0105C0389",
+  "CustomerName": "Chị Lý-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee7a"
+  },
+  "CustomerID": "1-BAG0105C0273",
+  "CustomerName": "Tuấn Hà-Tt Mỏ Trạng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee7b"
+  },
+  "CustomerID": "1-BAG0105C0592",
+  "CustomerName": "Chị Vui-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee7c"
+  },
+  "CustomerID": "1-BAG0105C0593",
+  "CustomerName": "Chị Lan-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee7d"
+  },
+  "CustomerID": "1-BAG0105C0594",
+  "CustomerName": "Chị Sen-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee7e"
+  },
+  "CustomerID": "1-BAG0105C0514",
+  "CustomerName": "Bắc Yến-64 Hà  Vị-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee85"
+  },
+  "CustomerID": "1-BAG0105C0377",
+  "CustomerName": "Sinh Anh-Chợ Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee8c"
+  },
+  "CustomerID": "1-BAG0105C0376",
+  "CustomerName": "Cô Ngân-Số 6-Chợ Hòa Yên-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee92"
+  },
+  "CustomerID": "1-BAG0105C0267",
+  "CustomerName": "Dũng Mỳ-Hoàng Hoa Thám"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ee9d"
+  },
+  "CustomerID": "1-BAG0105C0112",
+  "CustomerName": "Huyền Nguyệt-Cầu Tiến-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eea3"
+  },
+  "CustomerID": "1-BAG0105C0360",
+  "CustomerName": "Lan Phong-Ki Ốt 8-Chợ Hà Vị-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeab"
+  },
+  "CustomerID": "1-BAG0105C0358",
+  "CustomerName": "Vân Khánh-49-Nguyễn Khắc Nhu-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeb3"
+  },
+  "CustomerID": "1-BAG0105C0282",
+  "CustomerName": "Oanh Bắc-Bát Lát-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeb5"
+  },
+  "CustomerID": "1-BAG0105C0277",
+  "CustomerName": "Hùng-Tt Mỏ Trạng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeb9"
+  },
+  "CustomerID": "1-BAG0105C0274",
+  "CustomerName": "Nhuệ Suốt-Tt Mỏ Trạng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eebd"
+  },
+  "CustomerID": "1-BAG0105C0072",
+  "CustomerName": "Thúy Hà-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eec0"
+  },
+  "CustomerID": "1-BAG0105C0357",
+  "CustomerName": "Liên Hiệp-2-Trần Nguyên Hãn-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eec5"
+  },
+  "CustomerID": "1-BAG0105C0362",
+  "CustomerName": "Hà Thanh-9-Ktt Phân Đạm-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eecc"
+  },
+  "CustomerID": "1-BAG0105C0136",
+  "CustomerName": "Hồng Trường-Cầu Tiến"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eed1"
+  },
+  "CustomerID": "1-BAG0105C0110",
+  "CustomerName": "Thủy Lăng-Bờ Mận"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eed4"
+  },
+  "CustomerID": "1-BAG0105C0105",
+  "CustomerName": "Phương Hoa-Bờ Mận"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeda"
+  },
+  "CustomerID": "1-BAG0105C0104",
+  "CustomerName": "Tuyết Đồng-Bờ Mận-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eedf"
+  },
+  "CustomerID": "1-BAG0105C0100",
+  "CustomerName": "Chiến Thủy-Chợ Bố Hạ-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeeb"
+  },
+  "CustomerID": "1-BAG0105C0271",
+  "CustomerName": "Ngà Hiệp-Yên Thế-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeed"
+  },
+  "CustomerID": "1-BAG0105C0269",
+  "CustomerName": "Liên Thắng-Hoàng Hoa Thám-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eeee"
+  },
+  "CustomerID": "1-BAG0105C0268",
+  "CustomerName": "Giang Chung-Hoàng Hoa Thám-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eef8"
+  },
+  "CustomerID": "1-BAG0105C0263",
+  "CustomerName": "Trà Thê-Hoàng Hoa Thám-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eefa"
+  },
+  "CustomerID": "1-BAG0105C0189",
+  "CustomerName": "Thế Nhũ-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef07"
+  },
+  "CustomerID": "1-BAG0105C0050",
+  "CustomerName": "Hòa Toại-Khu 6-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef09"
+  },
+  "CustomerID": "1-BAG0105C0258",
+  "CustomerName": "Chị Liễu-Chợ Chiều"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef0e"
+  },
+  "CustomerID": "1-BAG0105C0034",
+  "CustomerName": "Liên Viên-Thôn Bến Phà-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef10"
+  },
+  "CustomerID": "1-BAG0105C0460",
+  "CustomerName": "Mai Đăng-Cầu Gồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef13"
+  },
+  "CustomerID": "1-BAG0105C0259",
+  "CustomerName": "Cô Yên-Chợ Chiều"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef15"
+  },
+  "CustomerID": "1-BAG0105C0257",
+  "CustomerName": "Cô Hợi-Chợ Chiều"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef18"
+  },
+  "CustomerID": "1-BAG0105C0088",
+  "CustomerName": "Dũng Tuyển-Nghĩa Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef22"
+  },
+  "CustomerID": "1-BAG0105C0035",
+  "CustomerName": "Thương Lâm-Thôn Bến Phà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef32"
+  },
+  "CustomerID": "1-BAG0105C0089",
+  "CustomerName": "Huệ Sơn-Hòa Bình"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef35"
+  },
+  "CustomerID": "1-BAG0105C0461",
+  "CustomerName": "Nguyện Ngự-Cầu Gồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef39"
+  },
+  "CustomerID": "1-BAG0105C0255",
+  "CustomerName": "Quyên Tài-Hoàng Hoa Thám-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef3d"
+  },
+  "CustomerID": "1-BAG0105C0290",
+  "CustomerName": "Hà Anh- Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef40"
+  },
+  "CustomerID": "1-BAG0105C0142",
+  "CustomerName": "Cô Thơ-Bố Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef43"
+  },
+  "CustomerID": "1-BAG0105C0265",
+  "CustomerName": "Dung Nghĩa-Hoàng Hoa Thám"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef47"
+  },
+  "CustomerID": "1-BAG0105C0518",
+  "CustomerName": "Hồng Ngọc-Cầu Gồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef4b"
+  },
+  "CustomerID": "1-BAG0105C0249",
+  "CustomerName": "Minh Đệ-Thành Chung-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef4f"
+  },
+  "CustomerID": "1-BAG0105C0206",
+  "CustomerName": "Cương Thảo-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef54"
+  },
+  "CustomerID": "1-BAG0105C0247",
+  "CustomerName": "Tiến Sáu-Thành Chung"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef60"
+  },
+  "CustomerID": "1-BAG0105C0053",
+  "CustomerName": "Huy Huế-Tân Thanh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef68"
+  },
+  "CustomerID": "1-BAG0105C0220",
+  "CustomerName": "Canh Chung-Thôn Tân Quang-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef6b"
+  },
+  "CustomerID": "1-BAG0105C0098",
+  "CustomerName": "Cường Hà-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef6d"
+  },
+  "CustomerID": "1-BAG0105C0051",
+  "CustomerName": "Chị Thủy-Kép-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef7c"
+  },
+  "CustomerID": "1-BAG0105C0049",
+  "CustomerName": "Thu Tiếp-Khu 6-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef7f"
+  },
+  "CustomerID": "1-BAG0105C0086",
+  "CustomerName": "Đức Chương-Tt Kép-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef84"
+  },
+  "CustomerID": "1-BAG0105C0471",
+  "CustomerName": "Thảo Lập-Tiên Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef87"
+  },
+  "CustomerID": "1-BAG0105C0472",
+  "CustomerName": "Sơn Yến-Đào Mỹ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef8d"
+  },
+  "CustomerID": "1-BAG0105C0456",
+  "CustomerName": "Vân Anh-Tiên Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef91"
+  },
+  "CustomerID": "1-BAG0105C0554",
+  "CustomerName": "Việt Chinh-Nguyễn Công Hãng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef96"
+  },
+  "CustomerID": "1-BAG0105C0044",
+  "CustomerName": "Hạnh Bội-Khu 6-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef9a"
+  },
+  "CustomerID": "1-BAG0105C0351",
+  "CustomerName": "Cô Hà-8-Cầu Chui-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330ef9f"
+  },
+  "CustomerID": "1-BAG0105C0337",
+  "CustomerName": "Hòa Đức-36-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efa3"
+  },
+  "CustomerID": "1-BAG0105C0092",
+  "CustomerName": "Yến Nhi-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efaf"
+  },
+  "CustomerID": "1-BAG0105C0347",
+  "CustomerName": "Hằng Hiển-39-Cầu Chui-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efb3"
+  },
+  "CustomerID": "1-BAG0105C0543",
+  "CustomerName": "Khương Hạc-Tân Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efbd"
+  },
+  "CustomerID": "1-BAG0105C0352",
+  "CustomerName": "Cô Nên-1-Kho Ga"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efc2"
+  },
+  "CustomerID": "1-BAG0105C0341",
+  "CustomerName": "Thủy Đại-60-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efc5"
+  },
+  "CustomerID": "1-BAG0105C0336",
+  "CustomerName": "Giang Thái-Số 13-Chợ Thương-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efd3"
+  },
+  "CustomerID": "1-BAG0105C0061",
+  "CustomerName": "Phong Thắm -QUANG Thịnh-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efd7"
+  },
+  "CustomerID": "1-BAG0105C0555",
+  "CustomerName": "Tuyết Vinh- Cầu Chui"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330efdc"
+  },
+  "CustomerID": "1-BAG0105C0066",
+  "CustomerName": "Ngọ Hưởng-Tân Thịnh-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eff3"
+  },
+  "CustomerID": "1-BAG0105C0077",
+  "CustomerName": "Tuyết Hương-Cầu Lưởng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eff6"
+  },
+  "CustomerID": "1-BAG0105C0075",
+  "CustomerName": "Hiền Luyến-Cầu Lường"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330eff9"
+  },
+  "CustomerID": "1-BAG0105C0052",
+  "CustomerName": "Luân Thủy-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330effa"
+  },
+  "CustomerID": "1-BAG0105C0237",
+  "CustomerName": "Thuận -TÂN Thanh-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330effb"
+  },
+  "CustomerID": "1-BAG0105C0225",
+  "CustomerName": "Oanh Thử-Tuấn Mỹk3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330effe"
+  },
+  "CustomerID": "1-BAG0105C0590",
+  "CustomerName": "Nam Hường-Tân Thanh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f003"
+  },
+  "CustomerID": "1-BAG0105C0223",
+  "CustomerName": "Bích Mơ-Tuấn Mỹ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f005"
+  },
+  "CustomerID": "1-BAG0105C0244",
+  "CustomerName": "Như Hoa-Hương Vĩ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f007"
+  },
+  "CustomerID": "1-BAG0105C0054",
+  "CustomerName": "Sen Long-Cầu Lường-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f00d"
+  },
+  "CustomerID": "1-BAG0105C0245",
+  "CustomerName": "Chú Trọng_Hương Vĩ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f010"
+  },
+  "CustomerID": "1-BAG0105C0224",
+  "CustomerName": "Hùng Sáu-Tuấn Mỹ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f011"
+  },
+  "CustomerID": "1-BAG0105C0205",
+  "CustomerName": "Hằng Khoát-Đường 295b-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f012"
+  },
+  "CustomerID": "1-BAG0105C0469",
+  "CustomerName": "Trường Thơm-Tiên Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f013"
+  },
+  "CustomerID": "1-BAG0105C0174",
+  "CustomerName": "Bạn Nguyên-Chợ Năm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f019"
+  },
+  "CustomerID": "1-BAG0105C0214",
+  "CustomerName": "Cam Mơ-Đường 295b-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f020"
+  },
+  "CustomerID": "1-BAG0105C0058",
+  "CustomerName": "Thùy Thơm-Quang Thịnh-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f025"
+  },
+  "CustomerID": "1-BAG0105C0444",
+  "CustomerName": "Mai Đán-Quang Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f02a"
+  },
+  "CustomerID": "1-BAG0105C0541",
+  "CustomerName": "Ch Tự Chọn Thanh Minh-Cầu Đá"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f02f"
+  },
+  "CustomerID": "1-BAG0105C0474",
+  "CustomerName": "Hiệp Chinh-Tân Thanh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f031"
+  },
+  "CustomerID": "1-BAG0105C0246",
+  "CustomerName": "Tiến Quỳnh-Tiên Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f035"
+  },
+  "CustomerID": "1-BAG0105C0208",
+  "CustomerName": "Hồng Hằng-Đường 295b"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f039"
+  },
+  "CustomerID": "1-BAG0105C0591",
+  "CustomerName": "Hợp Ngà-Tân Thanh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f03c"
+  },
+  "CustomerID": "1-BAG0105C0204",
+  "CustomerName": "Hạnh Thêm-Đường 295b-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f040"
+  },
+  "CustomerID": "1-BAG0105C0449",
+  "CustomerName": "Cô Ngọt- Thôn Đá"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f046"
+  },
+  "CustomerID": "1-BAG0105C0207",
+  "CustomerName": "Tâm Dung-Đường 295b"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f04a"
+  },
+  "CustomerID": "1-BAG0105C0014",
+  "CustomerName": "Cô Mi-Quang Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f04e"
+  },
+  "CustomerID": "1-BAG0105C0076",
+  "CustomerName": "Phong Hải-Cầu Lường-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f052"
+  },
+  "CustomerID": "1-BAG0105C0419",
+  "CustomerName": "Thúy Tân-Quang Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f05b"
+  },
+  "CustomerID": "1-BAG0105C0048",
+  "CustomerName": "Vân Thắng-Khu 6 Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f060"
+  },
+  "CustomerID": "1-BAG0105C0046",
+  "CustomerName": "Hoan Bình-Khu 6-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f064"
+  },
+  "CustomerID": "1-BAG0105C0253",
+  "CustomerName": "Thành Sửu-Kép"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f069"
+  },
+  "CustomerID": "1-BAG0105C0398",
+  "CustomerName": "Vân Thuyên-Đường Ql 31"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f06b"
+  },
+  "CustomerID": "1-BAG0105C0005",
+  "CustomerName": "Hạnh Thi-Ql 31 Chợ Thái Đào"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f070"
+  },
+  "CustomerID": "1-BAG0105C0539",
+  "CustomerName": "Huy Thơm-Đèo Rẻ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f076"
+  },
+  "CustomerID": "1-BAG0105C0087",
+  "CustomerName": "ST Làng Voi-Yên Dũng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f078"
+  },
+  "CustomerID": "1-BAG0105C0170",
+  "CustomerName": "Thanh Giang-Chợ Vôi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f07a"
+  },
+  "CustomerID": "1-BAG0105C0015",
+  "CustomerName": "Thu-Đường 299 Đông Phú"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f07c"
+  },
+  "CustomerID": "1-BAG0105C0562",
+  "CustomerName": "Nhung Thế-Bờ Hồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f07f"
+  },
+  "CustomerID": "1-BAG0105C0529",
+  "CustomerName": "Chị Hằng-Căngtin Bệnh Viện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f085"
+  },
+  "CustomerID": "1-BAG0105C0438",
+  "CustomerName": "Hiền Thi-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f08b"
+  },
+  "CustomerID": "1-BAG0105C0537",
+  "CustomerName": "Liệu Mai-Quỳnh Sơn"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f08e"
+  },
+  "CustomerID": "1-BAG0105C0439",
+  "CustomerName": "Lợi Huế-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f095"
+  },
+  "CustomerID": "1-BAG0105C0318",
+  "CustomerName": "Hải Hương-11-Hồ Công Dự-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f099"
+  },
+  "CustomerID": "1-BAG0105C0403",
+  "CustomerName": "Nhã Uyên-Xóm Xuân Phú"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f09b"
+  },
+  "CustomerID": "1-BAG0105C0430",
+  "CustomerName": "Minh Vinh-Đường 299"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f09d"
+  },
+  "CustomerID": "1-BAG0105C0326",
+  "CustomerName": "Thúy Hằng-Thánh Thiên-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0a4"
+  },
+  "CustomerID": "1-BAG0105C0536",
+  "CustomerName": "Dũng Thủy-Xuân Phú"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0a7"
+  },
+  "CustomerID": "1-BAG0105C0429",
+  "CustomerName": "Quỳnh Thời-Đường 299"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0aa"
+  },
+  "CustomerID": "1-BAG0105C0428",
+  "CustomerName": "Hoa Huy-Đường 299"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0af"
+  },
+  "CustomerID": "1-BAG0105C0303",
+  "CustomerName": "Thu Thái-184-Thánh Thiên-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0b4"
+  },
+  "CustomerID": "1-BAG0105C0423",
+  "CustomerName": "Năm Phu-Tân An-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0b6"
+  },
+  "CustomerID": "1-BAG0105C0301",
+  "CustomerName": "Liên Chỉnh-247-Chợ Tiền Môn-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0ba"
+  },
+  "CustomerID": "1-BAG0105C0415",
+  "CustomerName": "Sơn Ngọc-Quán Trắng-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0bd"
+  },
+  "CustomerID": "1-BAG0105C0534",
+  "CustomerName": "Thảnh Năm-Tân Dân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0c1"
+  },
+  "CustomerID": "1-BAG0105C0304",
+  "CustomerName": "Cô Hồng-177-Thánh Thiên-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0cf"
+  },
+  "CustomerID": "1-BAG0105C0292",
+  "CustomerName": "Hằng Tưởng-Ki Ốt 3-Lý Thái Tổ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0d3"
+  },
+  "CustomerID": "1-BAG0105C0323",
+  "CustomerName": "Dũng Hương-73-Lê Lợi-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0dc"
+  },
+  "CustomerID": "1-BAG0105C0414",
+  "CustomerName": "Chiêm Hanh-Quán Trắng-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0df"
+  },
+  "CustomerID": "1-BAG0105C0310",
+  "CustomerName": "Cô Oanh-165-Huyền Quang-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0f5"
+  },
+  "CustomerID": "1-BAG0105C0200",
+  "CustomerName": "Thuỳ Bằng-Vôi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0f6"
+  },
+  "CustomerID": "1-BAG0105C0182",
+  "CustomerName": "Vững Hoa-Thôn Năm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0f8"
+  },
+  "CustomerID": "1-BAG0105C0413",
+  "CustomerName": "Tuấn Thùy-Quán Trắng-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f0fd"
+  },
+  "CustomerID": "1-BAG0105C0294",
+  "CustomerName": "Mạnh Thanh-Ki Ốt 7-Lý Thái Tổ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f101"
+  },
+  "CustomerID": "1-BAG0105C0184",
+  "CustomerName": "Anh Tâm-Thôn Năm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f105"
+  },
+  "CustomerID": "1-BAG0105C0412",
+  "CustomerName": "Thành Tuyển-Quán Trắng-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f10c"
+  },
+  "CustomerID": "1-BAG0105C0324",
+  "CustomerName": "Cô Yến-Số 83-Đồng Cửa-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f117"
+  },
+  "CustomerID": "1-BAG0105C0422",
+  "CustomerName": "Khánh Thúy-Tân An"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f11b"
+  },
+  "CustomerID": "1-BAG0105C0309",
+  "CustomerName": "Yến Phúc-116-Huyền Quang-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f122"
+  },
+  "CustomerID": "1-BAG0105C0179",
+  "CustomerName": "Lan Hải-Thôn Năm-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f126"
+  },
+  "CustomerID": "1-BAG0105C0156",
+  "CustomerName": "Tốt Thuỷ-Dĩnh Trì"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f132"
+  },
+  "CustomerID": "1-BAG0105C0405",
+  "CustomerName": "Hưng Thúy-Bãi Ổi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f135"
+  },
+  "CustomerID": "1-BAG0105C0162",
+  "CustomerName": "Lan Lê-Tt Vôi-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f13e"
+  },
+  "CustomerID": "1-BAG0105C0291",
+  "CustomerName": "Tiền Anh-Ki Ốt 1-Lý Thái Tổ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f14a"
+  },
+  "CustomerID": "1-BAG0105C0409",
+  "CustomerName": "Thành Bắc-Ql 29-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f14e"
+  },
+  "CustomerID": "1-BAG0105C0171",
+  "CustomerName": "Thúy-Chợ Vôi-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f152"
+  },
+  "CustomerID": "1-BAG0105C0313",
+  "CustomerName": "Láng Tùng-138-Bờ Hồ-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f15a"
+  },
+  "CustomerID": "1-BAG0105C0254",
+  "CustomerName": "Chị Thơm-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f15e"
+  },
+  "CustomerID": "1-BAG0105C0302",
+  "CustomerName": "Thanh Lộc-249-Chợ Tiền Môn-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f166"
+  },
+  "CustomerID": "1-BAG0105C0315",
+  "CustomerName": "Dũng My-50-Bờ Hồ-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f17b"
+  },
+  "CustomerID": "1-BAG0105C0157",
+  "CustomerName": "Hiệp Huyên-Phố Giỏ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f182"
+  },
+  "CustomerID": "1-BAG0105C0108",
+  "CustomerName": "Oanh Tài-Cống Huyện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f194"
+  },
+  "CustomerID": "1-BAG0105C0508",
+  "CustomerName": "Hà Thập-Ngọc Thiện"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f197"
+  },
+  "CustomerID": "1-BAG0105C0022",
+  "CustomerName": "Hòa Ly-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f19a"
+  },
+  "CustomerID": "1-BAG0105C0484",
+  "CustomerName": "Tân Ngân-Chợ Vồng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f19d"
+  },
+  "CustomerID": "1-BAG0105C0498",
+  "CustomerName": "Khánh Ngân-Ngọc Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1a2"
+  },
+  "CustomerID": "1-BAG0105C0499",
+  "CustomerName": "Bích Hiệp-Ngọc Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1ac"
+  },
+  "CustomerID": "1-BAG0105C0013",
+  "CustomerName": "Trường Hương-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1ae"
+  },
+  "CustomerID": "1-BAG0105C0011",
+  "CustomerName": "Chị Hiền-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1b7"
+  },
+  "CustomerID": "1-BAG0105C0574",
+  "CustomerName": "Chú Quang-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1bb"
+  },
+  "CustomerID": "1-BAG0105C0565",
+  "CustomerName": "Cô Liên-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1bd"
+  },
+  "CustomerID": "1-BAG0105C0564",
+  "CustomerName": "Bà Lê-Cơ Khí"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1c8"
+  },
+  "CustomerID": "1-BAG0105C0441",
+  "CustomerName": "Sơn Hiền-Cao Kỳ Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1d2"
+  },
+  "CustomerID": "1-BAG0105C0392",
+  "CustomerName": "Phong Nga-Số 63-Cơ Khí-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1da"
+  },
+  "CustomerID": "1-BAG0105C0391",
+  "CustomerName": "Là Lịu-Số 47-Cơ Khí-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f1f1"
+  },
+  "CustomerID": "1-BAG0105C0144",
+  "CustomerName": "Tuấn Hương-Đường 298"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f20d"
+  },
+  "CustomerID": "1-BAG0105C0067",
+  "CustomerName": "Hằng Hưng - Hương Lạc"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f233"
+  },
+  "CustomerID": "1-BAG0105C0230",
+  "CustomerName": "Hữu Lan-Chợ Triển-Mỹ Thái -Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f235"
+  },
+  "CustomerID": "1-BAG0105C0234",
+  "CustomerName": "Túc Thêm-Triển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f23f"
+  },
+  "CustomerID": "1-BAG0105C0243",
+  "CustomerName": "Hướng Hoàn-Chợ Triển- Mỹ Thái"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f258"
+  },
+  "CustomerID": "1-BAG0105C0295",
+  "CustomerName": "Sơn Sinh-Ki Ốt 9-Lý Thái Tổ-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f25a"
+  },
+  "CustomerID": "1-BAG0105C0560",
+  "CustomerName": "Hưởng Hường-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f2e7"
+  },
+  "CustomerID": "1-BAG0105C0546",
+  "CustomerName": "Hải Hiền-Tân Dân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f2ee"
+  },
+  "CustomerID": "1-BAG0105C0451",
+  "CustomerName": "Tuyết Văn-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f2fb"
+  },
+  "CustomerID": "1-BAG0105C0186",
+  "CustomerName": "Phong Sửu-Đường 295"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f327"
+  },
+  "CustomerID": "1-BAG0105C0528",
+  "CustomerName": "Chiến Nga-Lý Thái Tổ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f331"
+  },
+  "CustomerID": "1-BAG0105C0314",
+  "CustomerName": "Hà Tú-68-Bờ Hồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f357"
+  },
+  "CustomerID": "1-BAG0105C0420",
+  "CustomerName": "Tiến Oánh-Quán Trắng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f35e"
+  },
+  "CustomerID": "1-BAG0105C0407",
+  "CustomerName": "Nga Sách-Làng Kép-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f362"
+  },
+  "CustomerID": "1-BAG0105C0406",
+  "CustomerName": "Ý Ước-Làng Kép-K4"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f364"
+  },
+  "CustomerID": "1-BAG0105C0450",
+  "CustomerName": "Tuyến Vân-Làng Thuyền"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f368"
+  },
+  "CustomerID": "1-BAG0105C0463",
+  "CustomerName": "Hoàng Hảo-Làng Thuyền"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3a0"
+  },
+  "CustomerID": "1-BAG0105C0278",
+  "CustomerName": "Công Hiền-Tt Mỏ Trạng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3a7"
+  },
+  "CustomerID": "1-BAG0105C0275",
+  "CustomerName": "Tiến Hạnh-Tt Mỏ Trạng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3a9"
+  },
+  "CustomerID": "1-BAG0105C0462",
+  "CustomerName": "Hiếu Hạnh-Tam Hiệp"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3ae"
+  },
+  "CustomerID": "1-BAG0105C0264",
+  "CustomerName": "Hùng Vân-Hoàng Hoa Thám-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3b0"
+  },
+  "CustomerID": "1-BAG0105C0260",
+  "CustomerName": "Tâm Oanh-Hoàng Hoa Thám"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3b4"
+  },
+  "CustomerID": "1-BAG0105C0519",
+  "CustomerName": "Minh Oanh-Yên Thế"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3ba"
+  },
+  "CustomerID": "1-BAG0105C0286",
+  "CustomerName": "Hưng Thu-Cầu Gồ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3bd"
+  },
+  "CustomerID": "1-BAG0105C0256",
+  "CustomerName": "Cô Ngân-Chợ Chiều"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3cb"
+  },
+  "CustomerID": "1-BAG0105C0575",
+  "CustomerName": "Lan Khoản-Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3cc"
+  },
+  "CustomerID": "1-BAG0105C0573",
+  "CustomerName": "Chị Biên-Hòa Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f3ce"
+  },
+  "CustomerID": "1-BAG0105C0572",
+  "CustomerName": "Chị Kỳ-Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f402"
+  },
+  "CustomerID": "1-BAG0105C0368",
+  "CustomerName": "Đạt Xuyến-Ki Ốt 22-Chợ Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f405"
+  },
+  "CustomerID": "1-BAG0105C0465",
+  "CustomerName": "Tùng Thư-Bố Hạ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f407"
+  },
+  "CustomerID": "1-BAG0105C0056",
+  "CustomerName": "Hợp Tuân-Nghĩa Hưng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f442"
+  },
+  "CustomerID": "1-BAG0105C0447",
+  "CustomerName": "Hiền Quang-Quang Thịnh"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f460"
+  },
+  "CustomerID": "1-BAG0105C0470",
+  "CustomerName": "Hậu Đào-Tiên Lục"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f464"
+  },
+  "CustomerID": "1-BAG0105C0064",
+  "CustomerName": "Tiến Mến-Lạng Giang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f47e"
+  },
+  "CustomerID": "1-BAG0105C0202",
+  "CustomerName": "Hà Lộc-Đường 295b"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f490"
+  },
+  "CustomerID": "1-BAG0105C0577",
+  "CustomerName": "Quyên Đại-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f493"
+  },
+  "CustomerID": "1-BAG0105C0578",
+  "CustomerName": "Hương Quân-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f496"
+  },
+  "CustomerID": "1-BAG0105C0582",
+  "CustomerName": "Thủy Bình-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f4b9"
+  },
+  "CustomerID": "1-BAG0105C0576",
+  "CustomerName": "Hợp Thu-Chợ Thương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f4d7"
+  },
+  "CustomerID": "1-BAG0105C0059",
+  "CustomerName": "Thanh Thịnh-Cầu Lường"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f505"
+  },
+  "CustomerID": "1-BAG0105C0180",
+  "CustomerName": "Hương Tiến-Thôn Năm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f516"
+  },
+  "CustomerID": "1-BAG0105C0163",
+  "CustomerName": "Tâm Huệ-Tt Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f53a"
+  },
+  "CustomerID": "1-BAG0105C0521",
+  "CustomerName": "Hưng Liu-Huyền Quang"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f541"
+  },
+  "CustomerID": "1-BAG0105C0322",
+  "CustomerName": "Chị Sang-Ki Ốt 10-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f544"
+  },
+  "CustomerID": "1-BAG0105C0159",
+  "CustomerName": "Hồng Thúy-Phố Tráng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f557"
+  },
+  "CustomerID": "1-BAG0105C0198",
+  "CustomerName": "Vân Hiếu-Tân Dĩnh-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f560"
+  },
+  "CustomerID": "1-BAG0105C0325",
+  "CustomerName": "Cô Lan-125-Huyền Quang-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f590"
+  },
+  "CustomerID": "1-BAG0105C0027",
+  "CustomerName": "Chính Hằng-Yên Dũng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f599"
+  },
+  "CustomerID": "1-BAG0105C0417",
+  "CustomerName": "Sáu Thúy-Quán Trắng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f5c3"
+  },
+  "CustomerID": "1-BAG0105C0033",
+  "CustomerName": "Bình Trang-Tân Yên"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f5cb"
+  },
+  "CustomerID": "1-BAG0105C0502",
+  "CustomerName": "Thống Oanh-Ngọc Vân"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f6ee"
+  },
+  "CustomerID": "1-BAG0105C0002",
+  "CustomerName": "Phương Huế-Thái Đào-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f6f7"
+  },
+  "CustomerID": "1-BAG0105C0007",
+  "CustomerName": "Tường Thuỵ-Ql 31 Phố Đại Lâm"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f781"
+  },
+  "CustomerID": "1-BAG0105C0150",
+  "CustomerName": "Thảo Huy-Hương Gián"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f786"
+  },
+  "CustomerID": "1-BAG0105C0149",
+  "CustomerName": "Minh Duyên-Hương Gián"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f7a0"
+  },
+  "CustomerID": "1-BAG0105C0178",
+  "CustomerName": "Hoài Nga-Phố Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f7aa"
+  },
+  "CustomerID": "1-BAG0105C0280",
+  "CustomerName": "Ước Thanh-Tt Mỏ Trạng-K3"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f7ab"
+  },
+  "CustomerID": "1-BAG0105C0279",
+  "CustomerName": "Cường Hải-Tt Mỏ Trạng"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f7c4"
+  },
+  "CustomerID": "1-BAG0105C0270",
+  "CustomerName": "Sơn Triều-Yên Thế-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f7dd"
+  },
+  "CustomerID": "1-BAG0105C0571",
+  "CustomerName": "Chú Đức-Hà Vị"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f839"
+  },
+  "CustomerID": "1-BAG0105C0139",
+  "CustomerName": "Đỗ Hòa-Thôn Bến Phà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f84e"
+  },
+  "CustomerID": "1-BAG0105C0285",
+  "CustomerName": "Hoàn Hùng-Phồn Xương"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f911"
+  },
+  "CustomerID": "1-BAG0105C0540",
+  "CustomerName": "Ngọc Sự-Đèo Rẻ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f929"
+  },
+  "CustomerID": "1-BAG0105C0561",
+  "CustomerName": "Đoàn Phương-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330f969"
+  },
+  "CustomerID": "1-BAG0105C0538",
+  "CustomerName": "Ích Huấn-Đẻo Rẻ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330fa9c"
+  },
+  "CustomerID": "1-BAG0105C0093",
+  "CustomerName": "Oanh Tuấn-Phố Thống Nhất-Vth"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330fc2c"
+  },
+  "CustomerID": "1-BAG0105C0226",
+  "CustomerName": "Ngọc Trang-Tân An"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330fc71"
+  },
+  "CustomerID": "1-BAG0105C0138",
+  "CustomerName": "Phương Loan-Thôn Bến Phà"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf330fdc0"
+  },
+  "CustomerID": "1-BAG0105C0203",
+  "CustomerName": "Vân Hoa-Đường 295b"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf33101b1"
+  },
+  "CustomerID": "1-BAG0105C0479",
+  "CustomerName": "Tùng Thảo-Chợ Bỉ"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf33106bc"
+  },
+  "CustomerID": "1-BAG0105C0596",
+  "CustomerName": "Thúy Lợi-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf33106bd"
+  },
+  "CustomerID": "1-BAG0105C0595",
+  "CustomerName": "Em Hiền-Chợ Vôi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf3310b2b"
+  },
+  "CustomerID": "1-BAG0105C0261",
+  "CustomerName": "Hoa Thiện-Hoàng Hoa Thám"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf331153f"
+  },
+  "CustomerID": "1-BAG0105C0694",
+  "CustomerName": "Hà Thắng-Lê Lợi"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf33115d0"
+  },
+  "CustomerID": "1-BAG0105C0696",
+  "CustomerName": "Minh Tâm-Trần Đăng Tuyển"
+},
+{
+  "_id": {
+    "$oid": "66437938f5ecc44bf33115f0"
+  },
+  "CustomerID": "1-BAG0105C0693",
+  "CustomerName": "Bình Mai-Dĩnh Trì"
+}]
