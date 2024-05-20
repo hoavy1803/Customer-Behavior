@@ -11,6 +11,9 @@
 ![image](https://github.com/hoavy1803/Customer-Behavior/assets/121221786/259875ef-192b-42a2-ad32-0dd1b29f7591)
 - Quản lý đơn hàng
 ![image](https://github.com/hoavy1803/Customer-Behavior/assets/121221786/c53b21cd-8934-435c-ba10-86947fec7f51)
+### Trang khách hàng
+- Tìm kiếm sản phẩm, thêm vào giỏ hàng, đặt mua
+![image](https://github.com/hoavy1803/Customer-Behavior/assets/121221786/ef540ebc-3c41-4d3e-870b-ccce3b910814)
 
 
 ### Hướng dẫn cài đặt:
