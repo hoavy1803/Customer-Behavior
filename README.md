@@ -21,8 +21,8 @@
 - Clone project trong link github đính kèm
 - cd đến thư mục frontend, chạy lệnh: npm install
 ### Chạy ứng dụng:
-- Mở MongoDB Compass -> Kết nối
-- Chạy file marketBasket.ipynb để tạo database trên mongodb
+- Mở MongoDB Compass -> Kết nối -> Tạo database 'customer_data' 
+- import các file .json trong thư mục data vào database
 - cd đến thư mục backend, chạy: uvicorn app:app –reload
 - cd đến thư mục frontend, chạy: npm start
 
