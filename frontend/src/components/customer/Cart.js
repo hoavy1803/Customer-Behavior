@@ -75,9 +75,12 @@ const Cart = () => {
                 <tbody>
                   {items.map((item, index) => {
                     return (
-                      <tr key={index}>
+                      <tr key={index} style={{ maxHeight: "8rem" }}>
                         <td>
-                          <img src={item.Image} style={{ height: "6rem" }} />
+                          <img
+                            src={item.item.Image}
+                            style={{ height: "6rem" }}
+                          />
                         </td>
                         <td>{item.title}</td>
                         <td>Giá: {item.price}</td>

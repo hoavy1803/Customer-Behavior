@@ -26,7 +26,7 @@ const ModalEdit = (props) => {
 
   const handleEditProductInfo = async () => {
     let res = await postEditProduct(productName, productID, price, image);
-    if (res && res.createdAt) {
+    if (res && res.data) {
       handleUpdateTableFromModal({
         name: productName,
         productId: dataProductEdit.ProductID,
@@ -35,7 +35,12 @@ const ModalEdit = (props) => {
       });
       console.log(">>id: ", dataProductEdit.ProductID);
       handleClose();
-      toast.success("An Product Updated");
+      // setTimeout(() => {
+      window.location.reload();
+      // }, 1000);
+      setTimeout(() => {
+        toast.success("An Product Updated");
+      }, 1000);
     }
   };
   useEffect(() => {

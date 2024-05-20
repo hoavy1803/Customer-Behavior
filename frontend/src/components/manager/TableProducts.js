@@ -15,7 +15,7 @@ const TableProducts = () => {
   const [originList, setOriginList] = useState([]);
   const [totalProduct, setTotalProducts] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 12;
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
@@ -90,65 +90,67 @@ const TableProducts = () => {
       </div>
       <div className="customize-table">
         <Table>
-          <tr>
-            <td>
-              <ManageChoice />
-            </td>
-            <td>
-              <Table striped bordered hover>
-                <thead>
-                  <tr>
-                    <th>Mã sản phẩm</th>
-                    <th>Tên sản phẩm</th>
-                    <th>Đơn giá</th>
-                    <th></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {listProducts &&
-                    listProducts.length > 0 &&
-                    listProducts
-                      .filter((post) => {
-                        if (query === "") {
-                          return post;
-                        } else if (
-                          post.ProductName.toLowerCase().includes(
-                            query.toLowerCase()
-                          )
-                        ) {
-                          return post;
-                        }
-                      })
-                      .slice(startIndex, endIndex)
-                      .map((item, index) => {
-                        return (
-                          <tr key={`item${index}`}>
-                            <td>{item.ProductID}</td>
-                            <td>{item.ProductName}</td>
-                            <td>{item.Price}</td>
-                            <td>
-                              <ModalEdit
-                                item={item}
-                                handleUpdateTable={handleUpdateTable}
-                                handleUpdateTableFromModal={
-                                  handleUpdateTableFromModal
-                                }
-                              />
-                              <ModalDelete
-                                item={item}
-                                handleUpdateTable={handleUpdateTable}
-                                handleDeleteTableFromModal={
-                                  handleDeleteTableFromModal
-                                }
-                              />
-                            </td>
-                          </tr>
-                        );
-                      })}
-                </tbody>
-              </Table>
-            </td>
-          </tr>
+          <tbody>
+            <tr>
+              <td>
+                <ManageChoice />
+              </td>
+              <td>
+                <Table striped bordered hover>
+                  <thead>
+                    <tr>
+                      <th>Mã sản phẩm</th>
+                      <th>Tên sản phẩm</th>
+                      <th>Đơn giá</th>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {listProducts &&
+                      listProducts.length > 0 &&
+                      listProducts
+                        .filter((post) => {
+                          if (query === "") {
+                            return post;
+                          } else if (
+                            post.ProductName.toLowerCase().includes(
+                              query.toLowerCase()
+                            )
+                          ) {
+                            return post;
+                          }
+                        })
+                        .slice(startIndex, endIndex)
+                        .map((item, index) => {
+                          return (
+                            <tr key={`item${index}`}>
+                              <td>{item.ProductID}</td>
+                              <td>{item.ProductName}</td>
+                              <td>{item.Price}</td>
+                              <td>
+                                <ModalEdit
+                                  item={item}
+                                  handleUpdateTable={handleUpdateTable}
+                                  handleUpdateTableFromModal={
+                                    handleUpdateTableFromModal
+                                  }
+                                />
+                                <ModalDelete
+                                  item={item}
+                                  handleUpdateTable={handleUpdateTable}
+                                  handleDeleteTableFromModal={
+                                    handleDeleteTableFromModal
+                                  }
+                                />
+                              </td>
+                            </tr>
+                          );
+                        })}
+                  </tbody>
+                </Table>
+              </td>
+            </tr>
+          </tbody>
         </Table>
       </div>
       <div className="paginate d-flex justify-content-center">

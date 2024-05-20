@@ -24,6 +24,7 @@ const Login = () => {
     let res = await loginApi(userName.trim(), password.trim());
     if (res && res.data) {
       localStorage.setItem("token", res.data.UserID);
+      localStorage.setItem("UserName", res.data.UserName);
 
       if (res.data.UserID.includes("@ladh")) {
         navigate("/manage_products");

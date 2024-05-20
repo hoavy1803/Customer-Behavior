@@ -17,20 +17,22 @@ const Home = () => {
       <Header />
 
       <table className="grid grid-cols-2">
-        <tr>
-          <td className="col-span-1 center-button">
-            <h1 className="text-center">LA'DH</h1>
-            <h6 className="text-center">
-              Mua sắm dễ dàng, vận chuyển nhanh chóng
-            </h6>
-            <button className="custom-button" onClick={handleClick}>
-              Đăng nhập
-            </button>
-          </td>
-          <td className="col-span-1">
-            <img src={require("../assets/noodles.png")} alt="Noodles" />
-          </td>
-        </tr>
+        <tbody>
+          <tr>
+            <td className="col-span-1 center-button">
+              <h1 className="text-center">LA'DH</h1>
+              <h6 className="text-center">
+                Mua sắm dễ dàng, vận chuyển nhanh chóng
+              </h6>
+              <button className="custom-button" onClick={handleClick}>
+                Đăng nhập
+              </button>
+            </td>
+            <td className="col-span-1">
+              <img src={require("../assets/noodles.png")} alt="Noodles" />
+            </td>
+          </tr>
+        </tbody>
       </table>
     </>
   );

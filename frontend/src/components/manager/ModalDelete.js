@@ -25,20 +25,21 @@ const ModalDelete = (props) => {
   };
 
   const handleDeleteProduct = async () => {
-    let res = await deleteProduct(dataProductDelete.id);
+    let res = await deleteProduct(dataProductDelete.ProductID);
     console.log(">>res: ", res);
-    if (res && +res.statusCode === 204) {
-      handleDeleteTableFromModal(dataProductDelete);
-      handleClose();
-      let string = "Del id=" + String(dataProductDelete.id);
-      toast.success(string);
-    }
+
+    handleDeleteTableFromModal(dataProductDelete);
+    handleClose();
+    let string = "Del id=" + String(dataProductDelete.ProductID);
+    window.location.reload();
+    toast.success(string);
+    handleClose();
   };
   useEffect(() => {
     if (show) {
-      setProductName(dataProductDelete.name);
-      setPrice(dataProductDelete.price);
-      setImage(dataProductDelete.image);
+      setProductName(dataProductDelete.ProductName);
+      setPrice(dataProductDelete.Price);
+      setImage(dataProductDelete.Image);
     }
   }, [dataProductDelete]);
   return (
@@ -67,7 +68,7 @@ const ModalDelete = (props) => {
             className="btn btn-primary"
             onClick={() => handleDeleteProduct()}
           >
-            Confirm
+            Xác nhận
           </button>
         </Modal.Footer>
       </Modal>

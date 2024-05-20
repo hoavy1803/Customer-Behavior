@@ -30,10 +30,10 @@ const ManageChoice = () => {
           <tr>
             <td className="button-contain">
               <button
-                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
+                className=" text-black custom-button"
                 onClick={() => {
-                  handleProducts();
                   handleClick(1);
+                  handleProducts();
                 }}
                 style={{
                   backgroundColor: selectedButton === 1 ? "#debb9c" : "white",
@@ -43,10 +43,10 @@ const ManageChoice = () => {
               </button>
 
               <button
-                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
+                className="text-black custom-button"
                 onClick={() => {
-                  handleOrders();
                   handleClick(2);
+                  handleOrders();
                 }}
                 style={{
                   backgroundColor: selectedButton === 2 ? "#debb9c" : "white",
@@ -56,10 +56,10 @@ const ManageChoice = () => {
               </button>
 
               <button
-                className="bg-yellow-500 text-black px-4 py-2 rounded-md hover:bg-yellow-600 active:bg-brown-500 active:text-white border-spacing-2 custom-button"
+                className="text-black custom-button"
                 onClick={() => {
-                  handleStatistic();
                   handleClick(3);
+                  handleStatistic();
                 }}
                 style={{
                   backgroundColor: selectedButton === 3 ? "#debb9c" : "white",

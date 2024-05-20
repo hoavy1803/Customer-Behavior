@@ -4,6 +4,9 @@ import { fetchAllProducts } from "../../services/data";
 import Header from "../Header";
 import { CartProvider } from "react-use-cart";
 import Cart from "./Cart";
+import Table from "react-bootstrap/Table";
+import Modal from "react-bootstrap/Modal";
+import Button from "react-bootstrap/Button";
 
 import "../../scss/ShowItems.scss";
 import ReactPaginate from "react-paginate";
@@ -21,6 +24,10 @@ const ShowItems = () => {
 
   const [searchResults, setSearchResults] = useState([]);
   const [searchItem, setSearchItem] = useState("");
+
+  const [show, setShow] = useState(false);
+  const handleClose = () => setShow(false);
+  const handleShow = () => setShow(true);
 
   useEffect(() => {
     getProducts(currentPage);
@@ -61,19 +68,57 @@ const ShowItems = () => {
   return (
     <>
       <Header />
-      <div>
-        <input
-          className="form-control"
-          type="text"
-          placeholder="Nhập tên sản phẩm..."
-          value={searchItem}
-          onChange={handleChange}
-        />
-        <button onClick={getRecommendProduct}>Tìm kiếm</button>
-      </div>
-
       <CartProvider>
-        <section className="py-4 container">
+        <div
+          className="d-sm-flex justify-content-between"
+          style={{ marginBottom: "20px", marginTop: "20px" }}
+        >
+          <div>
+            <span className="func-button">
+              <Button onClick={getRecommendProduct}>
+                <i className="fa fa-search"></i>
+              </Button>
+            </span>
+          </div>
+          <input
+            className="form-control"
+            type="text"
+            placeholder="Nhập tên sản phẩm..."
+            value={searchItem}
+            onChange={handleChange}
+          />
+          <div className="func-button">
+            {" "}
+            <Button
+              onClick={handleShow}
+              className="btn btn-success"
+              style={{ marginLeft: "auto" }}
+            >
+              <i className="fa fa-shopping-cart"></i>
+            </Button>
+          </div>
+        </div>
+
+        <Modal
+          show={show}
+          onHide={handleClose}
+          animation={false}
+          size="lg"
+          className="custom-modal"
+        >
+          <Modal.Header closeButton>
+            <Modal.Title>Giỏ hàng</Modal.Title>
+          </Modal.Header>
+          <Modal.Body className="modal-dialog-scrollable">
+            <Cart />
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="secondary" onClick={handleClose}>
+              Close
+            </Button>
+          </Modal.Footer>
+        </Modal>
+        <section className="py-3 container">
           <div className="row justify-content-center">
             {products &&
               products.length > 0 &&
@@ -90,9 +135,8 @@ const ShowItems = () => {
               })}
           </div>
         </section>
-        <Cart />
       </CartProvider>
-      <div className="paginate">
+      <div className="paginate d-flex justify-content-center">
         <ReactPaginate
           breakLabel="..."
           nextLabel="next >"

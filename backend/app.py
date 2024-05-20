@@ -90,7 +90,7 @@ async def edit_product(product: Product):
     mycollection_name = "product2"
     resultCollection = database.get_collection(mycollection_name) 
 
-    update = {'$set': {'ProductID': product.id, 'ProductName': product.name, 'Price': product.price, 'Image': product.image}}
+    update = {'$set': {'ProductName': product.name, 'ProductID': product.id, 'Price': product.price, 'Image': product.image}}
     resultCollection.update_one({'ProductID': product.id}, update)
     return {"message": "Sản phẩm đã được cập nhật thành công"}
 

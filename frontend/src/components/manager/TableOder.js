@@ -60,54 +60,56 @@ const TableOrder = () => {
       </div>
       <div className="customize-table">
         <Table>
-          <tr>
-            <td>
-              <ManageChoice />
-            </td>
-            <td>
-              <Table striped bordered hover>
-                <thead>
-                  <tr>
-                    <th>Mã đơn hàng</th>
-                    <th>Mã khách hàng</th>
-                    <th>Mã sản phẩm</th>
-                    <th>Số lượng</th>
-                    <th>Tổng tiền</th>
-                    <th>Ngày đặt hàng</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {listOrders &&
-                    listOrders.length > 0 &&
-                    listOrders
-                      .filter((post) => {
-                        if (query === "") {
-                          return post;
-                        } else if (
-                          post.DeliveryDate.toLowerCase().includes(
-                            query.toLowerCase()
-                          )
-                        ) {
-                          return post;
-                        }
-                      })
-                      .slice(startIndex, endIndex)
-                      .map((item, index) => {
-                        return (
-                          <tr key={`item${index}`}>
-                            <td>{item.OrderID}</td>
-                            <td>{item.CustomerID}</td>
-                            <td>{item.ProductID}</td>
-                            <td>{item.QuantityOrder}</td>
-                            <td>{item.TotalPrice}</td>
-                            <td>{item.DeliveryDate}</td>
-                          </tr>
-                        );
-                      })}
-                </tbody>
-              </Table>
-            </td>
-          </tr>
+          <tbody>
+            <tr>
+              <td>
+                <ManageChoice />
+              </td>
+              <td>
+                <Table striped bordered hover>
+                  <thead>
+                    <tr>
+                      <th>Mã đơn hàng</th>
+                      <th>Mã khách hàng</th>
+                      <th>Mã sản phẩm</th>
+                      <th>Số lượng</th>
+                      <th>Tổng tiền</th>
+                      <th>Ngày đặt hàng</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {listOrders &&
+                      listOrders.length > 0 &&
+                      listOrders
+                        .filter((post) => {
+                          if (query === "") {
+                            return post;
+                          } else if (
+                            post.DeliveryDate.toLowerCase().includes(
+                              query.toLowerCase()
+                            )
+                          ) {
+                            return post;
+                          }
+                        })
+                        .slice(startIndex, endIndex)
+                        .map((item, index) => {
+                          return (
+                            <tr key={`item${index}`}>
+                              <td>{item.OrderID}</td>
+                              <td>{item.CustomerID}</td>
+                              <td>{item.ProductID}</td>
+                              <td>{item.QuantityOrder}</td>
+                              <td>{item.TotalPrice}</td>
+                              <td>{item.DeliveryDate}</td>
+                            </tr>
+                          );
+                        })}
+                  </tbody>
+                </Table>
+              </td>
+            </tr>
+          </tbody>
         </Table>
       </div>
       <div className="paginate d-flex justify-content-center">

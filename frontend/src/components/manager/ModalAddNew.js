@@ -16,7 +16,7 @@ const ModalAddNew = (props) => {
     let res = await postNewProduct(productName, productID, price, image);
 
     console.log(">>>> check res: ", res);
-    if (res && res.id) {
+    if (res && res.data) {
       handleClose();
       setProductName("");
       setProductID("");
