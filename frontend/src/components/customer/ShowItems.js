@@ -10,9 +10,27 @@ import Button from "react-bootstrap/Button";
 
 import "../../scss/ShowItems.scss";
 import ReactPaginate from "react-paginate";
-import { fetchRecommendData } from "../../services/CustomerService";
+// import { fetchRecommendData } from "../../services/CustomerService";
 
 const ShowItems = () => {
+  const data = {
+    500000658: ["500000656", "500000659"],
+    500000079: ["500000024", "500000547"],
+    500000081: ["500000079", "500000032"],
+    500000364: ["500000658", "500000656"],
+    500000066: ["500000024", "500000590"],
+    500000032: ["500000024", "500000092"],
+    500000090: ["500000079", "500000081"],
+    500000319: ["500000656", "500000658"],
+    500000092: ["500000024", "500000032"],
+    500000547: ["500000024", "500000079"],
+    500000659: ["500000658", "500000656"],
+    500000600: ["500000658", "500000656"],
+    500000656: ["500000658", "500000364"],
+    500000024: ["500000032", "500000590"],
+    500000590: ["500000024", "500000066"],
+  };
+
   const [products, setProducts] = useState([]);
   const [totalProducts, setTotalProducts] = useState(0);
   const [totalPages, setTotalPages] = useState(0);
@@ -22,8 +40,9 @@ const ShowItems = () => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
 
-  const [searchResults, setSearchResults] = useState([]);
   const [searchItem, setSearchItem] = useState("");
+  const [searchResult, setSearchResult] = useState([]);
+  const [currentSearch, setCurrentSearch] = useState();
 
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
@@ -48,21 +67,47 @@ const ShowItems = () => {
 
   const handleChange = (event) => {
     setSearchItem(event.target.value);
-  };
-
-  const getRecommendProduct = () => {
-    let res = fetchRecommendData;
-
-    console.log("check recommend >>>", res.data);
-    if (res && res.data) {
-      setSearchResults(res.data);
-    }
+    console.log("check search term >>>", searchItem);
   };
 
   const handlePageClick = (event) => {
     console.log("event_lib:", event);
     setCurrentPage(+event.selected + 1);
     getProducts(currentPage); // thêm dấu + ở đầu: convert str sang number
+  };
+
+  const getRecommendProduct = () => {
+    //
+    if (searchItem.length === 0) {
+      setSearchResult([]);
+    }
+    products.filter((post) => {
+      if (searchItem === "") {
+        return post;
+      } else if (
+        post.ProductName.toLowerCase().includes(searchItem.toLowerCase())
+      ) {
+        setCurrentSearch(post);
+        console.log(currentSearch);
+        if (data.hasOwnProperty(post.ProductID)) {
+          // return data[post.ProductID];
+          return data[post.ProductID].map((id) => getProductByID(id));
+        } else {
+          console.log("post>>>", post);
+        }
+      }
+    });
+  };
+
+  const getProductByID = (id) => {
+    return products.filter((item) => {
+      if (item.ProductID === id) {
+        console.log("id >>>", id);
+        setSearchResult((prevSearchResult) => [...prevSearchResult, item]);
+
+        console.log("search result >>>", searchResult);
+      }
+    });
   };
 
   return (
@@ -120,6 +165,28 @@ const ShowItems = () => {
         </Modal>
         <section className="py-3 container">
           <div className="row justify-content-center">
+            {currentSearch && (
+              <ItemCard
+                img={currentSearch.Image}
+                title={currentSearch.ProductName}
+                price={currentSearch.Price}
+                item={currentSearch}
+              />
+            )}
+
+            {searchResult &&
+              searchResult.length > 0 &&
+              searchResult.map((item, index) => {
+                return (
+                  <ItemCard
+                    img={item.Image}
+                    title={item.ProductName}
+                    price={item.Price}
+                    item={item}
+                    key={index}
+                  />
+                );
+              })}
             {products &&
               products.length > 0 &&
               products.slice(startIndex, endIndex).map((item, index) => {
